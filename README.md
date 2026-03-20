@@ -4,7 +4,7 @@
 
 Olá, sou Gabriel Scaraficci, tenho 19 anos e moro na cidade de São Paulo, Brazil. Atualmente, estou cursando Data Science na FIAP. Apaixonado por traduzir dados complexos em decisões estratégicas, com o foco de atuar na área de Análise de Dados ou correlatas que possuam perfil analítico, conectando a capacidade técnica aos objetivos e resultados do negócio.
 
-*Idioma: Inglês Intermediário (fala, escrita)
+* Idioma: Inglês Intermediário (fala, escrita)
 
 ---
 
